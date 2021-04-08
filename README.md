@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kjp07
-- 👀 I’m interested in all things data and baking
 - 🌱 I’m currently learning data analysis using Python
 
 <!---
